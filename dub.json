@@ -1,0 +1,10 @@
+{
+	"name": "libvorbis",
+	"description": "D port of ogg libvorbis.",
+	"authors": ["Scott Wang"],
+	"license" : "Boost",
+	"targetType" : "library",
+	"libs" : ["vorbis"],
+	"dependencies": {
+	}
+}
