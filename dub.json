@@ -4,7 +4,7 @@
 	"authors": ["Scott Wang"],
 	"license" : "Boost",
 	"targetType" : "library",
-	"libs" : ["vorbis"],
+	"libs" : ["vorbis", "vorbisenc"],
 	"dependencies": {
 	}
 }
