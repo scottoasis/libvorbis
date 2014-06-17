@@ -3,7 +3,7 @@
 	"description": "D port of ogg libvorbis.",
 	"authors": ["Scott Wang"],
 	"license" : "Boost",
-	"targetType" : "library",
+	"targetType" : "sourceLibrary",
 	"libs" : ["vorbis", "vorbisenc"],
 	"dependencies": {
 	}
